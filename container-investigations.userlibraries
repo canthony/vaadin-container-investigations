@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="" />
+  <library name="" />
+  <library name="jruby-1.6.3-p330 facet library">
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/site_ruby/1.8" />
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/site_ruby/shared" />
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/1.8" />
+    <archive path="C:/Users/Charles/.IntelliJIdea10/config/plugins/ruby/rubystubs/rubystubs18" />
+  </library>
+  <library name="rake (v0.8.7, jruby-1.6.3-p330) [gem]">
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/gems/1.8/gems/rake-0.8.7/bin" />
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/gems/1.8/gems/rake-0.8.7/lib" />
+  </library>
+  <library name="scala-compiler-2.9.0.1">
+    <archive path="C:/java/scala-2.9.0.1/lib/scala-compiler.jar" />
+    <archive path="C:/java/scala-2.9.0.1/lib/scala-library.jar" />
+  </library>
+  <library name="scala-library-2.9.0.1">
+    <archive path="C:/java/scala-2.9.0.1/lib/scala-library.jar" />
+    <archive path="C:/java/scala-2.9.0.1/lib/scala-swing.jar" />
+    <archive path="C:/java/scala-2.9.0.1/lib/scala-dbc.jar" />
+  </library>
+  <library name="sources (v0.0.1, jruby-1.6.3-p330) [gem]">
+    <archive path="C:/java/jruby-1.6.3/lib/ruby/gems/1.8/gems/sources-0.0.1/lib" />
+  </library>
+</eclipse-userlibraries>
+
