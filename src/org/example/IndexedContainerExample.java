@@ -42,10 +42,11 @@ public class IndexedContainerExample {
     long stopTime = System.nanoTime();
     System.out.println("Created " + records.size() + " records in " + TimeUnit.NANOSECONDS.toMillis(stopTime - startTime) + "ms");
 
+      createIndexedContainer(records);
 //    createHashMapContainer(records);
-
+//
 //    createBeanItemContainer(records);
-    createIndexedContainer(records);
+
 
   }
 
