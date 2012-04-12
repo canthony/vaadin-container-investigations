@@ -3,7 +3,7 @@
 	<output-test url="file://$MODULE_DIR$/out/test/container-investigations"/>
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
-	<lib name="D:\Workspaces\git\container-investigations\lib\vaadin-6.6.1.jar" scope="COMPILE">
+	<lib name="vaadin-6.6.1.jar" scope="COMPILE">
 		<srcroot url="jar://$MODULE_DIR$/lib/vaadin-6.6.1.jar!/"/>
 		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/vaadin-6.6.1.jar!/"/>
 		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/vaadin-6.6.1.jar!/"/>
